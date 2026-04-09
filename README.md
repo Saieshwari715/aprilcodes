@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
