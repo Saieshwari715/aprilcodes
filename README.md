@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
