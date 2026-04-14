@@ -3,6 +3,7 @@ class Solution:
         n=len(nums)
         temp=[0]*n
         k=k%n
+        
         for i in range(n-k,n):
             temp[abs(n-k-i)]=nums[i]
         for i in range(n-k):
