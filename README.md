@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
