@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Saieshwari715/aprilcodes/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Saieshwari715/aprilcodes/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
