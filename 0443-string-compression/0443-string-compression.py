@@ -8,8 +8,8 @@ class Solution:
                 chars[s]=chars[l]
                 s+=1 
                 if c>1:
-                    for digit in str(c):
-                        chars[s]=digit
+                    for i in str(c):
+                        chars[s]=i
                         s+=1
                 l=r+1
         return s
