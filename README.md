@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Saieshwari715/aprilcodes/tree/master/0443-string-compression) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2460-apply-operations-to-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
