@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2460-apply-operations-to-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Saieshwari715/aprilcodes/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saieshwari715/aprilcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
