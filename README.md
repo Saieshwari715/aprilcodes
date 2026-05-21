@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saieshwari715/aprilcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Saieshwari715/aprilcodes/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saieshwari715/aprilcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saieshwari715/aprilcodes/tree/master/0700-search-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/Saieshwari715/aprilcodes/tree/master/2540-minimum-common-value) |
 ## Binary Tree
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0018-4sum) |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
