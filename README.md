@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saieshwari715/aprilcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Saieshwari715/aprilcodes/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
@@ -117,9 +118,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
