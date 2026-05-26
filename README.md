@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/Saieshwari715/aprilcodes/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Saieshwari715/aprilcodes/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Saieshwari715/aprilcodes/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
