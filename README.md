@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Saieshwari715/aprilcodes/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Saieshwari715/aprilcodes/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |
 | ------- |
