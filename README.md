@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
 | [1763-longest-nice-substring](https://github.com/Saieshwari715/aprilcodes/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saieshwari715/aprilcodes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/Saieshwari715/aprilcodes/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saieshwari715/aprilcodes/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Saieshwari715/aprilcodes/tree/master/0680-valid-palindrome-ii) |
 | [1763-longest-nice-substring](https://github.com/Saieshwari715/aprilcodes/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saieshwari715/aprilcodes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saieshwari715/aprilcodes/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0658-find-k-closest-elements) |
 | [1763-longest-nice-substring](https://github.com/Saieshwari715/aprilcodes/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saieshwari715/aprilcodes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Saieshwari715/aprilcodes/tree/master/1763-longest-nice-substring) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saieshwari715/aprilcodes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
