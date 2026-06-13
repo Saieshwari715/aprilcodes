@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saieshwari715/aprilcodes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
