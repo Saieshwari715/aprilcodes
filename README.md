@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saieshwari715/aprilcodes/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saieshwari715/aprilcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Saieshwari715/aprilcodes/tree/master/0239-sliding-window-maximum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/0054-spiral-matrix) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/0054-spiral-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
