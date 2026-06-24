@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saieshwari715/aprilcodes/tree/master/0695-max-area-of-island) |
 | [0804-unique-morse-code-words](https://github.com/Saieshwari715/aprilcodes/tree/master/0804-unique-morse-code-words) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saieshwari715/aprilcodes/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saieshwari715/aprilcodes/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Saieshwari715/aprilcodes/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Saieshwari715/aprilcodes/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saieshwari715/aprilcodes/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saieshwari715/aprilcodes/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
