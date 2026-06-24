@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Saieshwari715/aprilcodes/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/Saieshwari715/aprilcodes/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saieshwari715/aprilcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
@@ -176,4 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saieshwari715/aprilcodes/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Saieshwari715/aprilcodes/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saieshwari715/aprilcodes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
